@@ -2,4 +2,4 @@
 For practice
 # Hello World
 My first repository on GitHub!
-I love :coffee: :pizza: :pan:, and :dancer:.
+I love :coffee: :pizza: :panmasala:, and :dancer:.
